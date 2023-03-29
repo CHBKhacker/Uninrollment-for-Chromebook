@@ -6,6 +6,6 @@ This method requires crosh to be unblocked on your chromebook. Crosh can be open
 
 Steps to Re-Enroll when you turn your chromebook back in at the end of the year:
 
-Enable Devmode (ESC+Power+Reload, ctrl d and enter on recovery screen) Once in chrome, Open crosh (ctrl + alt + t) Type in shell Type in sudo vpd -i RW_VPD -s check_enrollment=1 Powerwash again
+Enable Devmode (ESC+Power+Reload, ctrl d and enter on recovery screen) Once in chrome, Open crosh (ctrl + alt + t) Type in **shell** Type in **sudo vpd -i RW_VPD -s check_enrollment=1** Powerwash again
 
 Site made by CoolElectronics#4683 UNROLL (U Need Root LoL) acroynm by ULTRA BLUE#1850 and zuh#6098 justinchrm#3399 helped with testing Shroot™ name by phennen#9801 shroot80 script created by OlyB#9420 Kiosk Exploit found by Divide/B3AT Root exploits originally found by Rory McNamara
