@@ -1,4 +1,4 @@
-**Uninrollment for Chromebook**
+# Uninrollment for Chromebook
 
 In order for this exploit to work you will need to downgrade to EXACTLY version 91. Downgrade instructions can be found here
 
